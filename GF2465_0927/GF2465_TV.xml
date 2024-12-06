@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<CNGDZ3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CNGDZ3_TV.xsd">
+    <vásárlás>
+        <dátum>2024-11-21</dátum>
+        <darab>3</darab>
+        <termék>
+            <kód>T67890</kód>
+            <név>4K TV</név>
+            <ár>150000</ár>
+            <méret>65 hüvelyk</méret>
+        </termék>
+        <vásárló>
+            <VID>V002</VID>
+            <név>Kiss Szilárd</név>
+            <lakcím>
+                <irányítószám>1066</irányítószám>
+                <város>Budapest</város>
+                <utca>Andrássy út</utca>
+                <házszám>14</házszám>
+            </lakcím>
+            <fizetési_mód>Készpénz</fizetési_mód>
+        </vásárló>
+    </vásárlás>
+    <vásárlás>
+        <dátum>2024-11-21</dátum>
+        <darab>3</darab>
+        <termék>
+            <kód>T67890</kód>
+            <név>4K TV</név>
+            <ár>150000</ár>
+            <méret>65 hüvelyk</méret>
+        </termék>
+        <vásárló>
+            <VID>V002</VID>
+            <név>Kiss Szilárd</név>
+            <lakcím>
+                <irányítószám>1066</irányítószám>
+                <város>Budapest</város>
+                <utca>Andrássy út</utca>
+                <házszám>14</házszám>
+            </lakcím>
+            <fizetési_mód>Készpénz</fizetési_mód>
+        </vásárló>
+    </vásárlás>
+</CNGDZ3>
